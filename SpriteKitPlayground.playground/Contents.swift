@@ -135,7 +135,7 @@ extension Scene: SKPhysicsContactDelegate {
         
         }
     }
-}
+}sv
 
 let viewFrame = CGRect(x: 0, y: 0, width: 365, height: 667)
 let view = SKView(frame: viewFrame)
